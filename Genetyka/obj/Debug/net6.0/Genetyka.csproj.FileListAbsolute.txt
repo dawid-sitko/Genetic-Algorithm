@@ -1,0 +1,45 @@
+C:\Users\dawid\Desktop\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.exe
+C:\Users\dawid\Desktop\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.deps.json
+C:\Users\dawid\Desktop\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.runtimeconfig.json
+C:\Users\dawid\Desktop\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.dll
+C:\Users\dawid\Desktop\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.pdb
+C:\Users\dawid\Desktop\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.AssemblyInfo.cs
+C:\Users\dawid\Desktop\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.dll
+C:\Users\dawid\Desktop\Genetyka\Genetyka\obj\Debug\net6.0\refint\Genetyka.dll
+C:\Users\dawid\Desktop\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.pdb
+C:\Users\dawid\Desktop\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.genruntimeconfig.cache
+C:\Users\dawid\Desktop\Genetyka\Genetyka\obj\Debug\net6.0\ref\Genetyka.dll
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.exe
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.deps.json
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.runtimeconfig.json
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.dll
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.pdb
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.csproj.AssemblyReference.cache
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.GeneratedMSBuildEditorConfig.editorconfig
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.AssemblyInfoInputs.cache
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.AssemblyInfo.cs
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.csproj.CoreCompileInputs.cache
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.dll
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\refint\Genetyka.dll
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.pdb
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.genruntimeconfig.cache
+D:\XX\WST\CHŁOP Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\ref\Genetyka.dll
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.exe
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.deps.json
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.runtimeconfig.json
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.dll
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\bin\Debug\net6.0\Genetyka.pdb
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.csproj.AssemblyReference.cache
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.GeneratedMSBuildEditorConfig.editorconfig
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.AssemblyInfoInputs.cache
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.AssemblyInfo.cs
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.csproj.CoreCompileInputs.cache
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.dll
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\refint\Genetyka.dll
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.pdb
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\Genetyka.genruntimeconfig.cache
+D:\XX\WST\M Metody systemowe\Genetyka\Genetyka\obj\Debug\net6.0\ref\Genetyka.dll
